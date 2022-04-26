@@ -1,4 +1,4 @@
-# Proyek-UTS-Grafkok-Kelompok-19
+# Proyek UTS Grafkok Kelompok 19
 [Demo Video](https://drive.google.com/file/d/1TUXDw0UVJTJF9dUr5N4lWvUr0ifKz4HX/view?usp=sharing)
 
 ## Anggota Kelompok:
